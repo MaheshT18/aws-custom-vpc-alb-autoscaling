@@ -66,7 +66,6 @@ All instances are distributed across **multiple Availability Zones**, ensuring h
 ---
 
 ## 📂 Repository Structure
-
 ```text
 .
 ├── user-data.sh
