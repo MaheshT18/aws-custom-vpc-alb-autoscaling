@@ -1,4 +1,4 @@
-# 🚀 Highly Available Web Server on AWS (ALB + ASG + Custom VPC)
+## 🚀 Highly Available Web Server on AWS (ALB + ASG + Custom VPC)
 
 ## 📌 Project Overview
 This project demonstrates the design and deployment of a **highly available and scalable web server architecture** on AWS.  
@@ -79,9 +79,8 @@ All instances are distributed across **multiple Availability Zones**, ensuring h
     ├── auto-scaling-group.png
     ├── browser-output-1.png
     └── browser-output-2.png
-
+```
 ---
-
 ## 🎯 Why This Project
 This project demonstrates practical understanding of:
 - AWS networking fundamentals
